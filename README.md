@@ -451,6 +451,7 @@ By using a router, home users can create a secure network environment that not o
 - **Benefits:** Offers high-speed internet access with the advantage of simultaneous voice calls without disconnecting from the internet.
 
 Both cable and DSL connections provide high-speed internet access, and users can choose the one that best suits their needs based on availability and location. Cable internet utilizes the same coaxial cable as cable television, while DSL operates over existing telephone lines. The quality and speed of the DSL connection can vary based on the distance from the central office, while cable internet typically provides consistent speeds.
+
 ![Screenshot from 2023-10-09 11-16-57](https://github.com/Ankit6989/Networking/assets/114300894/ab5cbac9-b509-4555-b3a5-fbdc6843c890)
 
 ### Additional Connectivity Options:
@@ -471,7 +472,162 @@ Both cable and DSL connections provide high-speed internet access, and users can
 
 ![Screenshot from 2023-10-09 11-19-04](https://github.com/Ankit6989/Networking/assets/114300894/da2dc644-57ef-418e-bd32-a51ffe22b3c0)
 
+# Wireless and Mobile Networks:
+## Wireless Networks:
+### CellPhone Interactions with Different Networks:
 
+In addition to the GSM and 4G/5G transmitters and receivers, smartphones make connections in a variety of ways.
+
+- ***Global Positoning System(GPS):*** The GPS uses satellites to transmit signals that cover the globe. The smartphone can receive these signals and calculate the phone’s location to an accuracy of within 10 meters.
+
+![image](https://github.com/Ankit6989/Networking/assets/114300894/6f2b46d6-4104-4ed8-b075-95aab04a584d)
+
+
+- ***WIFI:*** Wi-Fi transmitters and receivers located within the smartphone enable the phone to connect to local networks and the internet. In order to receive and send data on a Wi-Fi network, the phone needs to be within the range of the signal from a wireless network access point. Wi-Fi networks are usually privately owned but often provide guest or public access hotspots. A hotspot is an area where Wi-Fi signals are available. Wi-Fi network connections on the phone are similar to the network connections on a laptop computer.
+
+![Screenshot from 2023-10-11 19-29-16](https://github.com/Ankit6989/Networking/assets/114300894/6549d30a-cd81-4e53-8c8c-72324dacde09)
+
+
+- ***Bluetooth:*** Bluetooth is a low-power, shorter range wireless technology that is intended to replace wired connectivity for accessories such as speakers, headphones, and microphones. Bluetooth can also be used to connect a smartwatch to a smartphone. Because Bluetooth technology can be used to transmit both data and voice, it can be used to create small local networks. Bluetooth is wireless technology that allows devices to communicate over short distances. Multiple devices can be connected at the same time with Bluetooth.
+
+![Screenshot from 2023-10-11 19-29-44](https://github.com/Ankit6989/Networking/assets/114300894/b1e96ae2-aad2-4b9b-8575-ced10de76c7e)
+
+
+- ***Near Field Communication(NFC):*** Near Field Communication (NFC) is a wireless communication technology that enables data to be exchanged by devices that are in very close proximity to each other, usually less than a few centimeters. For example, NFC can be used to connect a smartphone and a payment system. NFC uses electromagnetic fields to transmit data.
+
+![Screenshot from 2023-10-11 19-30-05](https://github.com/Ankit6989/Networking/assets/114300894/964a2b74-2db2-4ddf-8dad-29811a9516a2)
+
+
+## Mobile Device Connectivity:
+
+- Mobile devices offer the freedom to work, learn, play, and communicate from anywhere. They use wireless connections, like Wi-Fi, to send voice, video, and data without being stuck in one place.
+
+- Wi-Fi is great because it doesn't use your cellular data and it saves battery. But, remember to stay safe:
+
+1. Don't send important info in plain text (unencrypted).
+2. For sensitive data, use a VPN.
+3. Secure your home Wi-Fi.
+4. Use strong encryption, like WPA2 or higher, for safety.
+
+
+### WIFI Settings/Configure Mobile Wi-Fi Connectivity:
+
+- If your mobile device doesn't ask to connect to Wi-Fi, it might be because the network's name (SSID) isn't broadcasting, or your device isn't set to connect automatically. You can set it up manually:
+
+**On Android**:
+1. Go to Settings.
+2. Choose "Add network."
+3. Enter the network name (SSID).
+4. Select the security type.
+5. Enter the password.
+6. Save it.
+
+- Remember, the steps might vary on your device due to updates or customizations. Check your manufacturer's website for help.
+
+**On iOS (Apple)**:
+1. Open Settings.
+2. Tap "Wi-Fi" and then "Other."
+3. Enter the network name (SSID).
+4. Select the security type.
+5. Tap "Other Network."
+6. Enter the password.
+7. Hit "Join."
+
+![Screenshot from 2023-10-11 19-43-00](https://github.com/Ankit6989/Networking/assets/114300894/ed2dd9dc-589f-4b0d-b883-85dda8d66220)
+
+### Configure Cellular Data Settings:
+
+Cellular data plans vary by carrier and plan, so users often prefer Wi-Fi when available. To control cellular data:
+
+- **On Android**: Open settings, go to "Network & internet," select "Mobile network," and toggle "Mobile data" on/off.
+
+- **On iOS (Apple)**: In settings, choose "Cellular" and toggle "Cellular Data" on/off.
+
+Mobile devices prioritize Wi-Fi when possible. If Wi-Fi isn't available, they switch to cellular data seamlessly. For example, moving from 4G to 3G doesn't disrupt connections.
+
+### Simple Connectivity with Bluetooth:
+
+Mobile devices connect in various ways, including Bluetooth, which is wireless, easy to use, and power-efficient. Bluetooth lets devices link up, and here are some examples:
+
+1. **Hands-free headset**: A small earpiece with a microphone for calls.
+2. **Keyboard or mouse**: Connect to improve input on mobile devices.
+3. **Stereo control**: Link to home or car stereos to play music.
+4. **Car speakerphone**: For calls, it has a speaker and microphone.
+5. **Tethering**: Share network connection with another mobile device or computer, via Bluetooth, Wi-Fi, or USB cable.
+6. **Mobile speaker**: Portable speakers connect to provide high-quality audio.
+
+### Wireless Networks:
+
+Mobile phones use radio waves to transmit voice signals to towers in specific areas. Calls travel from tower to tower until they reach their destination. This network works for mobile-to-mobile or mobile-to-wired calls, and also for texting. The most common is GSM.
+
+Enhanced networks like 3G, 4G, 4G-LTE, and 5G are used for fast data. Currently, 4G is the most common.
+
+Smartphones connect in various ways:
+
+1. **Wi-Fi**: To local networks and the internet using Wi-Fi transmitters.
+2. **Bluetooth**: For short-range communication between devices.
+3. **NFC**: For close-proximity data exchange, often used for payments or sharing.
+
+These technologies help make smartphones versatile and powerful.
+
+
+### Mobile Device Connectivity:
+
+Mobile devices often connect to Wi-Fi networks. To secure Wi-Fi:
+
+1. Avoid sending login or password info in plain text.
+2. Use a VPN for sensitive data.
+3. Secure your home network.
+4. Choose WPA2 or stronger encryption.
+
+Two main mobile OSes are Android and iOS. Devices prioritize Wi-Fi if available; otherwise, they use cellular data.
+
+Bluetooth helps devices connect easily, using little power. It's used for hands-free headsets, keyboards, mice, stereo controls, car speakerphones, and mobile speakers.
+
+Bluetooth pairing happens when devices connect and share. To pair, both devices must have Bluetooth on and one must be discoverable. During pairing, info like device name, class, services, and technical specs are shared. A PIN may be requested for authentication.
+
+# Build a Home Network:
+## Home Network Basics:
+
+### Typical Home Network Setup:
+
+https://github.com/Ankit6989/Networking/assets/114300894/01704045-ee48-4d78-bb2c-f68d89122dbb
+
+
+### Components of a Home Network:
+
+In addition to an integrated router, there are many different types of devices that might be connecting to a home network, as shown in the figure. Here are a few examples:
+
+- Desktop computers
+- Gaming systems
+- Smart TV systems
+- Printers
+- Scanners
+- Security cameras
+- Telephones
+- Climate control devices
+
+As the new technologies come on the market, more and more household functions will rely on the network to provide connectivity and control.
+
+**Home Wireless Local Area Network (WLAN):**
+
+![Screenshot from 2023-10-11 20-09-12](https://github.com/Ankit6989/Networking/assets/114300894/c47d8581-2fbc-49a1-a926-b3d6eb98b133)
+
+### Typical Home Network Routers:
+
+Small business and home routers typically have two primary types of ports:
+
+- **Ethernet Ports**: These ports connect to the internal switch portion of the router. These ports are usually labeled “Ethernet” or “LAN”, as shown in the figure. All devices connected to the switch ports are on the same local network.
+
+- **Internet Ports**: This port is used to connect the device to another network. The internet port connects the router to a different network than the Ethernet ports. This port is often used to connect to the cable or DSL modem in order to access the internet.
+
+- In addition to the wired ports, many home routers include a radio antenna and a built-in wireless access point. By default, the wireless devices are on the same local network as the devices that are physically plugged into the LAN switch ports. The internet port is the only port that is on a different network in the default configuration.
+
+![Screenshot from 2023-10-11 20-21-17](https://github.com/Ankit6989/Networking/assets/114300894/24b00639-e222-4af0-b2f9-d13f3a3f5970)
+
+## Network technologies in the Home:
+
+### LAN Wireless Frequencies:
 
 
 
